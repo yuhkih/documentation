@@ -1,3 +1,3 @@
-# I'm folder2
+# ARO
 
 source: `{{ page.path }}`
