@@ -1,3 +1,3 @@
-# Day 0 operations
+# Day 0
 
 source: `{{ page.path }}`
